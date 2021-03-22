@@ -119,4 +119,5 @@ logs/
 
 # other stuff
 *.zip
-
+stacked-regressions-top-4-on-leaderboard.ipynb
+2-Feature Engineering.ipynb
