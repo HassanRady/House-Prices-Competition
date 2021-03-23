@@ -111,6 +111,8 @@ train.csv
 test.csv
 data_description.txt
 sample_submission.csv
+processed_train.csv
+processed_test.csv
 
 
 # all logs
@@ -120,4 +122,4 @@ logs/
 # other stuff
 *.zip
 stacked-regressions-top-4-on-leaderboard.ipynb
-2-Feature Engineering.ipynb
+# 2-Feature Engineering.ipynb
