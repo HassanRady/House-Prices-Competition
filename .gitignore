@@ -107,6 +107,7 @@ venv.bak/
 .idea/
 
 # datafiles
+**.csv
 train.csv
 test.csv
 data_description.txt
@@ -121,5 +122,4 @@ logs/
 
 # other stuff
 *.zip
-stacked-regressions-top-4-on-leaderboard.ipynb
-# 2-Feature Engineering.ipynb
+3-Modeling.ipynb
